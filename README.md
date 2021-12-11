@@ -29,3 +29,5 @@ _The hotel booking template designed and shared by [edith.hsu](https://z7x2c0v0b
 
 1. `npm start`: Run the app in development mode.
 2. `npm run build`: Builds the app for production to the build folder.
+
+![deployment](deployment_command.png)
